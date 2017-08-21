@@ -1,3 +1,5 @@
-# esminer-public
+ESMINER - Ethereum mining tools
+=========================
 
-ESMINER RELEASE REPO
+
+
